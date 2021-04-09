@@ -12,6 +12,8 @@
     "devDependencies": {
         "axios": "^0.21.1",
         "bootstrap": "^4.0.0",
+        "browser-sync": "^2.26.14",
+        "browser-sync-webpack-plugin": "^2.2.2",
         "jquery": "^3.2",
         "laravel-mix": "^6.0.6",
         "lodash": "^4.17.21",
@@ -27,6 +29,7 @@
     "dependencies": {
         "d3": "^6.6.2",
         "moment": "^2.29.1",
+        "vue-router": "^3.5.1",
         "vuetify": "^2.4.9"
     }
 }
